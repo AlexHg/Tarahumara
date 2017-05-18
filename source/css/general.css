@@ -266,3 +266,13 @@ section{
 #mision{
     font-size:17px;
 }
+.line-obj{
+    display:flex;
+    align-items: center;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+.line-obj p{
+    padding-top:1rem;
+    margin-left: 25px;
+}

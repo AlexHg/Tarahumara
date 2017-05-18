@@ -8,7 +8,6 @@
     <meta name="description" content="<?php echo $_VIEW['description']; ?>" />
     <link href="source/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="source/css/general.css" rel="stylesheet">
-    
   </head>
   <body>
     <header>

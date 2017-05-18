@@ -6,8 +6,8 @@
     <div class="submenu">
         <a href="mision">Mision, Visión y Valores</a>
         <a href="origenes">Orígenes</a>
-        <a href="#">Quienes la integran</a>
-        <a href="#">Reconocimiento</a>
+        <a href="quienes">Quienes la integran</a>
+        <a href="reconocimiento">Reconocimiento</a>
     </div>
 </li>
 <li>

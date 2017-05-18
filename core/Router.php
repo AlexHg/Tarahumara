@@ -37,6 +37,28 @@
         View::render('template/fin');
     });
 
+    Flight::route('/quienes', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Quienes la integran",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('quienes');
+        View::render('template/fin');
+    });
+
+    Flight::route('/reconocimiento', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Reconocimientos",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('reconocimiento');
+        View::render('template/fin');
+    });
+
 
 
 
