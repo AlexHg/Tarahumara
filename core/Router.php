@@ -59,6 +59,50 @@
         View::render('template/fin');
     });
 
+    Flight::route('/educacion', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Programa para la Educación",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('educacion');
+        View::render('template/fin');
+    });
+
+    Flight::route('/nutricion', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Programa para la Nutrición Infantil",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('nutricion');
+        View::render('template/fin');
+    });
+
+    Flight::route('/hidrica', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Programa para la Seguridad Hídrica",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('hidrica');
+        View::render('template/fin');
+    });
+
+    Flight::route('/alimentaria', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Programa para la Seguridad Alimentaria",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('alimentaria');
+        View::render('template/fin');
+    });
+
 
 
 

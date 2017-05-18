@@ -11,12 +11,12 @@
     </div>
 </li>
 <li>
-    <a href="#Inicio">Programas</a>
+    <a href="educacion">Programas</a>
     <div class="submenu">
-        <a href="#">Educación</a>
-        <a href="#">Nutrición infantil</a>
-        <a href="#">Seguridad Hídrica</a>
-        <a href="#">Seguridad Alimentaria</a>
+        <a href="educacion">Educación</a>
+        <a href="nutricion">Nutrición infantil</a>
+        <a href="hidrica">Seguridad Hídrica</a>
+        <a href="alimentaria">Seguridad Alimentaria</a>
     </div>
 </li>
 <li>

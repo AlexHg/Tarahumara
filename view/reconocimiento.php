@@ -1,5 +1,5 @@
 <div id="page-title" style="background:url(source/images/page-banner3.jpg);background-position:center;background-size:cover;height:185px;display:flex;align-items:center;justify-content:center;">
-    <div align="center" class="whitefont1" style="padding:.7rem 8rem;border:4px solid white;">QUIENES LA INTEGRAN</div>
+    <div align="center" class="whitefont1" style="padding:.7rem 8rem;border:4px solid white;">RECONOCIMIENTOS</div>
 </div>
 
 <section id="mision" class="container" style="max-width:900px;">
