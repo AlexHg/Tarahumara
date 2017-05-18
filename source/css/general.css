@@ -1,0 +1,268 @@
+body{
+font-family: 'Open Sans', sans-serif;
+letter-spacing:1PX;
+overflow-x: hidden;
+}
+
+.whitefont1{
+font-size:25px;
+color:#FFF;
+letter-spacing:1px;
+font-weight: 300;
+}
+.whitefont2{
+font-size:20px;
+color:#FFF;
+}
+
+.whitefont3{
+font-size:15px;
+color:#FFF;
+}
+
+.whitefont4{
+font-size:12px;
+color:#FFF;
+}
+
+
+.blackfont1{
+font-family: 'Open Sans', sans-serif;
+font-size:25px;
+color: #545454;
+letter-spacing:1px;
+
+}
+
+.blackfont2{
+font-family: 'Open Sans', sans-serif;
+font-size:20px;
+color: #545454;
+letter-spacing:1px;
+}
+
+.blackfont3{
+font-family: 'Open Sans', sans-serif;
+font-size:15px;
+color: #545454;
+letter-spacing:1px;
+} 
+.blackfont4{
+font-family: 'Open Sans', sans-serif;
+font-size:12px;
+color: #545454;
+letter-spacing:1px;
+} 
+
+.greenfont0{
+font-family: 'Open Sans', sans-serif;
+font-size:40px;
+color: #34aba6;
+letter-spacing:1px;
+font-weight: 300;
+}
+
+
+.greenfont1{
+font-family: 'Open Sans', sans-serif;
+font-size:30px;
+color: #34aba6;
+letter-spacing:1px;
+font-weight: 300;
+}
+
+.greenfon2{
+font-family: 'Open Sans', sans-serif;
+font-size:20px;
+color: #34aba6;
+letter-spacing:1px;font-weight: 400;
+}
+
+.greenfon3{
+font-family: 'Open Sans', sans-serif;
+font-size:15px;
+color: #34aba6;
+letter-spacing:1px;
+}
+
+
+a:link {
+	color: #0a242f;
+}
+a:visited {
+	color: #0a242f;
+}
+a:hover {
+	color: #0a242f;
+}
+a:active {
+}
+
+
+header{
+    min-height:100px;
+    width:100vw;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background: white;
+    z-index:5;
+}
+header #top-nav{
+    min-height:100px;
+    width:985px; 
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+header #top-nav nav{
+    min-height:100px;
+    display: flex;
+    flex-wrap:wrap;
+    background:white;
+}
+
+header #top-nav nav li{
+    display: inline-blocK;
+    background:white;
+}
+
+header #top-nav nav a{
+    height:100px;
+    padding:0 1.2rem;
+    display:inline-flex;
+    align-items:center;
+    text-transform: uppercase;
+    font-size:12px;
+    position:relative;
+    z-index:2;
+    background:white;
+}
+
+header #top-nav nav li:hover a{
+    background: #07605e;
+    color:white;
+    text-decoration: none;
+
+}
+header #top-nav nav li div.submenu{
+    transition: margin .3s;
+    position:absolute;
+    width:200px;
+    margin-top:-20%;
+    z-index:-2;
+}
+
+header #top-nav nav li:hover a + div.submenu{
+    transition: margin .3s;
+    margin-top:0;
+    z-index:0;
+    opacity: 1;
+    background: #07605e;
+}
+
+div.submenu > a{
+    display: block;
+    width:100%;
+    padding: .7rem 1rem !important;
+    height:auto!important;
+    font-size:1.1rem!important;
+}
+div.submenu > a:hover{
+    background:#0a242f!important;
+}
+
+#top-banner{
+    height: 725px;
+    width: 100%;
+    background-image: url(../images/home-baner1.jpg);
+    text-align: center;
+}
+.section-logo{
+    width: 100px;
+    position: absolute;
+    top:-50px;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right: auto;
+}
+section{
+    position: relative;
+    padding: 100px 0;
+}
+#cmrecon img{
+    margin:1.5rem;
+}
+@media (max-width: 550px){
+    #cmprogramas img{
+        width: 120px;
+    }
+    #cmapoyar img{
+        width:100px;
+    }
+    #cmrecon img{
+        height:60px;
+    }
+}
+#movmenu{
+    display:none;
+}
+#movile-nav{
+    display:none;
+    background:#07605e;
+    color:white;
+    text-decoration: none;
+    list-style: none;
+    overflow:hidden;
+    opacity: 0;
+    height: 0;
+    transition: all 1s;
+}
+
+#movile-nav:target{
+    height:688px;
+    padding-top:2rem;
+    padding-bottom:2rem;
+    opacity:1; 
+}
+
+#movile-nav .submenu a{
+    padding-left:2rem!important;
+}
+#movile-nav li{
+    text-decoration: none;
+    margin-top:.5rem;
+    margin-bottom:.6rem;
+}
+
+#movile-nav a{
+    padding: 1rem 1rem ;
+    color:white;
+    text-decoration: none;
+}
+
+#movmenu img{
+    width: 50px;
+    height: 50px;
+}
+@media (max-width:1000px){
+
+    #navigator, #donabutton{
+        display:none!important;
+    }
+    #movmenu{
+        display:flex;
+        align-items: center;
+    }
+    #movile-nav{
+        display:block;
+    }
+    header{
+        max-width: 90vw;
+    }
+}
+#mision{
+    font-size:17px;
+}
