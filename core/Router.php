@@ -103,6 +103,17 @@
         View::render('template/fin');
     });
 
+    Flight::route('/lasierra', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "La Sierra Tarahumara",
+                "description" => "Otro sitio web de Welfare"
+            )
+        );
+        View::render('lasierra');
+        View::render('template/fin');
+    });
+
 
 
 

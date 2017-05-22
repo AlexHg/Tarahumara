@@ -20,7 +20,7 @@
     </div>
 </li>
 <li>
-    <a href="#Inicio">La Sierra</a>
+    <a href="lasierra">La Sierra</a>
 </li>
 <li>
     <a href="#Inicio">Difusión</a>
