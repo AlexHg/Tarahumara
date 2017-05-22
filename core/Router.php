@@ -125,6 +125,28 @@
         View::render('template/fin');
     });
 
+    Flight::route('/informes', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Informes",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('informes');
+        View::render('template/fin');
+    });
+
+    Flight::route('/aviso-de-privacidad', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Aviso de privacidad",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('avisoprivacidad');
+        View::render('template/fin');
+    });
+
 
 
 

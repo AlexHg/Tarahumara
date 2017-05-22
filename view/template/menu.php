@@ -26,9 +26,9 @@
     <a href="#Inicio">Difusión</a>
     <div class="submenu">
         <a href="boletines">Boletines informativos</a>
-        <a href="#">Informes anuales</a>
+        <a href="informes">Informes anuales</a>
         <a href="#">Estados financieros</a>
-        <a href="#">Aviso de privacidad</a>
+        <a href="aviso-de-privacidad">Aviso de privacidad</a>
     </div>
 </li>
 <li>

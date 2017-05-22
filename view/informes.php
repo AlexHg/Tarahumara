@@ -6,144 +6,173 @@
     <div class="row" >
         <div class="col-md-12">
             <p align="center" class="greenfont1">
-                BOLETINES INFORMATIVOS
+                INFORMES ANUALES
             </p>
         
             <p >
-                Como parte de un mayor acercamiento contigo que te sumas a nuestra causa, y con el resto de nuestra sociedad sobre la labor de nuestra fundación, se han creado diversos puentes y canales de comunicación para mantenerlos informados.
+                La consolidación y logro de nuestras metas y objetivos es vital para nosotros. Evaluar lo que estamos haciendo y cómo lo estamos haciendo nos marca la pauta para la mejora continua, el poder fortalecernos como Fundación y seguir creciendo. Mantener alineadas las tareas y acciones, los compromisos establecidos, la canalización de los recursos y apoyos recibidos es fundamental para nuestra proyección y medir los avances contra lo que falta por hacer.
                 <br><br>
-                Creemos que el compartir información es fundamental para mantenernos conectados y en sintonía  respecto a la serie de actividades realizadas en nuestra agenda de trabajo, del logro de nuestros objetivos y de los apoyos recibidos.
-                <br><br>
-                En nuestro Boletín Informativo bimestral estaremos informando sobre el avance de los programas que llevamos a cabo en la Fundación, de los próximos eventos a realizar y de igual forma los realizados, de nuestras alianzas, de los apoyos y donativos recibidos, de testimonios y de artículos de interés social y alineados con nuestra visión, misión y valores. 
+                Para crear este proceso de evaluación llevamos a cabo nuestro informe anual, en el que se plasma toda la información de las actividades y eventos realizados en el año, de las acciones y compromisos establecidos, de las estadísticas, apoyos y recursos, de los logros y nuestras áreas de oportunidad, todo alineado en el tema de transparencia y compromiso social.
             </p>
             <br><br>
         </div>
         
     </div>
     <div class="row">
+        <div class="col-md-4"></div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/boletin12.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info16.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 12<br>
-                    MAYO 2017
+                    INFORME ANUAL<br>
+                    2015
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/boletin11.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info1.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 11<br>
-                    ABRIL 2017
+                    INFORME ANUAL<br>
+                    2014
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
-        <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol10.gif" alt="" style="margin-right:1rem;">
-            <span>
-                <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 10<br>
-                    ABRIL 2016
-                </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
-            </span>
-        </div>
+
         <div class="col-md-12"></div>
+
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol9.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info2.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 9<br>
-                    MARZO 2016
+                    INFORME ANUAL<br>
+                    2013
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol8.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info3.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 8<br>
-                    NOVIEMBRE 2015
+                    INFORME ANUAL<br>
+                    2012
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol7.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info4.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 7<br>
-                    MAYO 2015
+                    INFORME ANUAL<br>
+                    2011
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
+
         <div class="col-md-12"></div>
+
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol6.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info5.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 6<br>
-                    DICIEMBRE 2013
+                    INFORME ANUAL<br>
+                    2010
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol5.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info6.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 5<br>
-                    AGOSTO 2013
+                    INFORME ANUAL<br>
+                    2009
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol4.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info7.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 4<br>
-                    ABRIL 2013
+                    INFORME ANUAL<br>
+                    2008
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
+
         <div class="col-md-12"></div>
+
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol3.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info8.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 3<br>
-                    DICIEMBRE 2012
+                    INFORME ANUAL<br>
+                    2007
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol2.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info9.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 2<br>
-                    SEPTIEMBRE 2012
+                    INFORME ANUAL<br>
+                    2006
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
-            <img src="source/images/boletin/difun-bol1.gif" alt="" style="margin-right:1rem;">
+            <img src="source/images/informes/difun-info10.gif" alt="" style="margin-right:1rem;">
             <span>
                 <p class="greenfon3" style="margin-bottom:1rem;">
-                    BOLETÍN 1<br>
-                    ABRIL 2012
+                    INFORME ANUAL<br>
+                    2005
                 </p>
                 <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
             </span>
         </div>
+
+        <div class="col-md-12"></div>
+
+        <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
+            <img src="source/images/informes/difun-info11.gif" alt="" style="margin-right:1rem;">
+            <span>
+                <p class="greenfon3" style="margin-bottom:1rem;">
+                    INFORME ANUAL<br>
+                    2004
+                </p>
+                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+            </span>
+        </div>
+        <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
+            <img src="source/images/informes/difun-info12.gif" alt="" style="margin-right:1rem;">
+            <span>
+                <p class="greenfon3" style="margin-bottom:1rem;">
+                    INFORME ANUAL<br>
+                    2003
+                </p>
+                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+            </span>
+        </div>
+        <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
+            <img src="source/images/informes/difun-info13.gif" alt="" style="margin-right:1rem;">
+            <span>
+                <p class="greenfon3" style="margin-bottom:1rem;">
+                    INFORME ANUAL<br>
+                    2002
+                </p>
+                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+            </span>
+        </div>
+
 
     </div>
 </section>
