@@ -9,18 +9,19 @@
             <p align="center" class="greenfont1">
                 PROGRAMA DE NUTRICIÓN INFANTIL
             </p>
-        </div>
-        <p align="justify">
-            Establecido en 1995, este programa busca reducir la incidencia de desnutrición infantil mediante el reparto mensual de un complemento alimenticio, el monitoreo del estado nutricio y capacitaciones a promotores comunitarios y padres de familia.<br><br>
-            El programa cuenta con una red de agentes y promotores comunitarios, quienes de manera voluntaria apoyan en la operación del programa en los 108 centros de peso y talla.
-        </p><br><br>
-        <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
+        
+            <p >
+                Establecido en 1995, este programa busca reducir la incidencia de desnutrición infantil mediante el reparto mensual de un complemento alimenticio, el monitoreo del estado nutricio y capacitaciones a promotores comunitarios y padres de familia.<br><br>
+                El programa cuenta con una red de agentes y promotores comunitarios, quienes de manera voluntaria apoyan en la operación del programa en los 108 centros de peso y talla.
+            </p><br><br>
+            <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
 
-            <img src="source/images/programas/prog-nut11.gif"  alt="" style="padding:1rem;" class="col-md-3">
-            <p align="justify" class="greenfon2 col-md-9">Actualmente apoyamos mensualmente a 2700 niños que viven 
-                en 23 comunidades de 7 municipios de la Sierra entregando 
-                leche fortificada en polvo. 
-            </p>
+                <img src="source/images/programas/prog-nut11.gif"  alt="" style="padding:1rem;" class="col-md-3">
+                <p  class="greenfon2 col-md-9">Actualmente apoyamos mensualmente a 2700 niños que viven 
+                    en 23 comunidades de 7 municipios de la Sierra entregando 
+                    leche fortificada en polvo. 
+                </p>
+            </div>
         </div>
     </div>
     <div class="row">

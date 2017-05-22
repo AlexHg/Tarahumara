@@ -5,7 +5,7 @@
 <section id="mision" class="container" style="max-width:900px;">
     <div class="row" >
         <div class="col-md-12">
-            <p align="justify">
+            <p >
                 Estamos conformados por un Patronato que es el órgano máximo de gobierno de la Fundación; funge como órgano consultivo y de aprobación de estrategias operativas, administrativas y financieras, y es responsable de la regulación y vigilancia del cumplimento de la misión, visión y valores de la institución. En él se definen las políticas y las metas de la institución, y se encarga de vigilar su situación financiera en general, así como de garantizar su permanencia.<br><br>
                 El Patronato de la Fundación Tarahumara José A. Llaguno está integrado por hombres y mujeres entusiastas, generosos y de probada honorabilidad, provenientes de distintos sectores de la sociedad, quienes con su experiencia dan cauce a las estrategias generales adoptadas por la institución.
             </p>

@@ -8,7 +8,7 @@
             <p align="center" valign="middle" class="greenfont1">
                 Historia de una labor HUMANA
             </p>
-            <p align="justify">
+            <p >
                 Nacemos de la visión y labor humanista del Obispo José A. Llaguno, quién vivió y trabajó en la Sierra Tarahumara por cuarenta años (de 1952 a 1992) dedicándose a promover los derechos de las comunidades indígenas y mejorar sus condiciones de vida.
             </p>
             <br><br>
@@ -66,8 +66,8 @@
                     </p>
                 </div>
             </div>
-            <p align="justify"><br><br>Fuimos constituidos como Fundación el 18 de noviembre de 1992 por los hermanos del Obispo José Alberto Llaguno quienes buscaban honrar la memoria de su hermano fallecido y continuar su labor de apoyo a los habitantes de la Sierra Tarahumara.</p>
-            <p align="justify">Nos establecimos como Fundación con el propósito de continuar fomentando el desarrollo de la región bajo la misión de: “ser una organización de promoción y enlace que canaliza recursos económicos, tecnológicos y humanos para acompañar a las comunidades de la Sierra Tarahumara en su propio desarrollo, en las áreas de educación, nutrición y salud.”<br>
+            <p ><br><br>Fuimos constituidos como Fundación el 18 de noviembre de 1992 por los hermanos del Obispo José Alberto Llaguno quienes buscaban honrar la memoria de su hermano fallecido y continuar su labor de apoyo a los habitantes de la Sierra Tarahumara.</p>
+            <p >Nos establecimos como Fundación con el propósito de continuar fomentando el desarrollo de la región bajo la misión de: “ser una organización de promoción y enlace que canaliza recursos económicos, tecnológicos y humanos para acompañar a las comunidades de la Sierra Tarahumara en su propio desarrollo, en las áreas de educación, nutrición y salud.”<br>
             <br>
           </p>
         </div>

@@ -10,19 +10,20 @@
                 PROGRAMA DE SEGURIDAD HÍDRICA<br>
                 <small><small>BAWÍ RARÁMURI-"AGUA PARA LA TARAHUMARA"</small></small>
             </p>
-        </div>
-        <p align="justify">
-            El programa Bawí Rarámuri fue creado en 2006 para aumentar la disponibilidad de agua para consumo humano y agrícola en comunidades de la Sierra Tarahumara. Este programa busca asegurar la conservación y el manejo sustentable de los recursos renovables de comunidades de la Sierra Tarahumara a través de acciones de ordenamiento territorial, captación y siembra de agua, conservación-recuperación de suelos, y almacenamiento y distribución de agua. Actualmente, el programa opera en cuatro municipios de la Sierra Tarahumara: Bocoyna, Carichí, Guachochi, y Guadalupe y Calvo.
-        </p><br><br>
-        <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
+        
+            <p >
+                El programa Bawí Rarámuri fue creado en 2006 para aumentar la disponibilidad de agua para consumo humano y agrícola en comunidades de la Sierra Tarahumara. Este programa busca asegurar la conservación y el manejo sustentable de los recursos renovables de comunidades de la Sierra Tarahumara a través de acciones de ordenamiento territorial, captación y siembra de agua, conservación-recuperación de suelos, y almacenamiento y distribución de agua. Actualmente, el programa opera en cuatro municipios de la Sierra Tarahumara: Bocoyna, Carichí, Guachochi, y Guadalupe y Calvo.
+            </p><br><br>
+            <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
 
-            <img src="source/images/programas/prog-seghid30.gif"  alt="" style="padding:1rem;" class="col-md-3">
-            <p align="justify" class="col-md-9"><strong class="greenfon3">Impactos: </strong>La conservación de agua y suelo, y posteriormente el almacenamiento y distribución de agua, son estrategias eficaces para fomentar la seguridad alimentaria, aumentando la disponibilidad de agua para consumo humano y la producción agrícola de autoconsumo, y así revertiendo ciertas causas estructurales de la malnutrición, pobreza y marginación. 
-            <br></p><br>
-        </div>
-        <div class="col-md-2"></div>
-        <div align="center" class="col-md-8 greenfon2"><br>
-            En el 2012, el programa fue finalista del premio Latinoamericano “Acciones en Agua y Adaptación” en el VI Foro Mundial del Agua en Marsella, Francia.
+                <img src="source/images/programas/prog-seghid30.gif"  alt="" style="padding:1rem;" class="col-md-3">
+                <p  class="col-md-9"><strong class="greenfon3">Impactos: </strong>La conservación de agua y suelo, y posteriormente el almacenamiento y distribución de agua, son estrategias eficaces para fomentar la seguridad alimentaria, aumentando la disponibilidad de agua para consumo humano y la producción agrícola de autoconsumo, y así revertiendo ciertas causas estructurales de la malnutrición, pobreza y marginación. 
+                <br></p><br>
+            </div>
+            <div class="col-md-2"></div>
+            <div align="center" class="col-md-8 greenfon2"><br>
+                En el 2012, el programa fue finalista del premio Latinoamericano “Acciones en Agua y Adaptación” en el VI Foro Mundial del Agua en Marsella, Francia.
+            </div>
         </div>
     </div>
     <div class="row">
@@ -74,7 +75,7 @@
             </div>
         </div>
         <div class="col-md-12">
-            <p align="justify"><br><br>
+            <p ><br><br>
                 Logros Históricos: De 2007 a 2011 se han construido 30 proyectos hidro-agroecológicos con 786 obras que beneficiaron directamente a 1,919 habitantes. En el 2012, el programa contó con 1,754 beneficiarios con 22 proyectos con la construcción de 873 obras que equivalen a 7,997 metros cúbicos de construcción y 23,900 metros lineales de sistemas de distribución. En el 2013, se están llevando a cabo 20 proyectos. En 2014 se hicieron 42 obras de conservación, almacenamiento y distribución de agua, se construyeron 23 pilas de almacenamiento equivalentes a 401,785 litros de agua almacenada.<br><br>
                 Trabajamos con 19 comuninades de la Sierra involucrando a mas de 2,400 personas y con su ayuda concluímos 19 obras de conservación de suelo y agua.<br><br>
                 En 2015 se capacitaron a 146 personas en el uso del purificador FILTREOZ a partir de 5 talleres que se impartieron, uno por localidad (Casa Blanca, Santa Cruz, Tucheachi de Norogachi, Las Turbinas y Simuchichi. Las personas que participaron en los talleres se capacitaron en temas de armado del FiltrEOZ, demostración completa del sistema de purificación de agua FiltrEOZ, funcionamiento y mantenimiento correcto del filtro. <a href="http://www.agualimpia.mx/pages/proyectos">http://www.agualimpia.mx/pages/proyectos</a>

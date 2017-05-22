@@ -4,7 +4,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Inicio",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('home');
@@ -19,7 +19,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Misión, Visión y Valores",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('mision');
@@ -30,7 +30,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Origen",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('origen');
@@ -41,7 +41,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Quienes la integran",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('quienes');
@@ -52,7 +52,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Reconocimientos",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('reconocimiento');
@@ -63,7 +63,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Programa para la Educación",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('educacion');
@@ -74,7 +74,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Programa para la Nutrición Infantil",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('nutricion');
@@ -85,7 +85,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Programa para la Seguridad Hídrica",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('hidrica');
@@ -96,7 +96,7 @@
         View::render('template/ini', 
             array(
                 'title' => "Programa para la Seguridad Alimentaria",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('alimentaria');
@@ -107,10 +107,21 @@
         View::render('template/ini', 
             array(
                 'title' => "La Sierra Tarahumara",
-                "description" => "Otro sitio web de Welfare"
+                "description" => "Otra creación de Welfare"
             )
         );
         View::render('lasierra');
+        View::render('template/fin');
+    });
+
+    Flight::route('/boletines', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Boletines",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('boletines');
         View::render('template/fin');
     });
 

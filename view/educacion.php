@@ -9,21 +9,22 @@
             <p align="center" class="greenfont1">
                 PROGRAMA DE EDUCACIÓN
             </p>
-        </div>
-        <p align="justify">
-            El programa Benéame Promesa surge en 1996 como una alternativa de apoyo y acompañamiento a jóvenes que desean continuar con sus estudios a nivel secundario, preparatoria, técnico y universitario. Este programa ofrece apoyos económicos mensuales, tutorías, y establece espacios de participación juvenil e integración como son los encuentros estudiantiles anuales y el servicio comunitario. Durante los 16 años de operación, hemos apoyado económicamente a 2,780 estudiantes.
-        </p><br><br>
-        <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
-            <img src="source/images/programas/prog-educa.gif"  alt="" style="margin:1rem;">
-            <img src="source/images/programas/prog-educa1.gif" alt="" style="margin:1rem;">
-            <img src="source/images/programas/prog-educa2.gif" alt="" style="margin:1rem;">
-            <img src="source/images/programas/prog-educa3.gif" alt="" style="margin:1rem;">
-            <img src="source/images/programas/prog-educa4.gif" alt="" style="margin:1rem;">
-        </div><br><br>
-        <div class="col-md-2"></div>
-        <div align="center" class="col-md-8 greenfon2">
-            Los estudiantes provienen de cinco municipios de la Sierra Tarahumara: 
-            Batopilas, Bocoyna, Carichí, Urique, Guachochi y Guadalupe y Calvo.
+        
+            <p >
+                El programa Benéame Promesa surge en 1996 como una alternativa de apoyo y acompañamiento a jóvenes que desean continuar con sus estudios a nivel secundario, preparatoria, técnico y universitario. Este programa ofrece apoyos económicos mensuales, tutorías, y establece espacios de participación juvenil e integración como son los encuentros estudiantiles anuales y el servicio comunitario. Durante los 16 años de operación, hemos apoyado económicamente a 2,780 estudiantes.
+            </p><br><br>
+            <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
+                <img src="source/images/programas/prog-educa.gif"  alt="" style="margin:1rem;">
+                <img src="source/images/programas/prog-educa1.gif" alt="" style="margin:1rem;">
+                <img src="source/images/programas/prog-educa2.gif" alt="" style="margin:1rem;">
+                <img src="source/images/programas/prog-educa3.gif" alt="" style="margin:1rem;">
+                <img src="source/images/programas/prog-educa4.gif" alt="" style="margin:1rem;">
+            </div><br><br>
+            <div class="col-md-2"></div>
+            <div align="center" class="col-md-8 greenfon2">
+                Los estudiantes provienen de cinco municipios de la Sierra Tarahumara: 
+                Batopilas, Bocoyna, Carichí, Urique, Guachochi y Guadalupe y Calvo.
+            </div>
         </div>
     </div><br><br>
     <div class="row">

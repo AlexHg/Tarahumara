@@ -10,16 +10,17 @@
                 PROGRAMA DE SEGURIDAD ALIMENTARIA<br>
                 <small><small>PASS KO´WAME-"ALIMENTACIÓN SEGURA PARA LA SIERRA"</small></small>
             </p>
-        </div>
-        <p align="justify">
-            La iniciativa de seguridad alimentaria nació en 2003, con el objetivo de incrementar la producción de alimentos para autoconsumo y generar opciones productivas que fortalezcan la economía local. Se realiza la instalación y tecnificación de huertos, se ofrece asistencia técnica para mejorar los sistemas de producción en la región y se promueve la diversificación de los cultivos orgánicos locales y se instalan gallineros como proyectos productivos.
-        </p><br><br>
-        <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
+        
+            <p >
+                La iniciativa de seguridad alimentaria nació en 2003, con el objetivo de incrementar la producción de alimentos para autoconsumo y generar opciones productivas que fortalezcan la economía local. Se realiza la instalación y tecnificación de huertos, se ofrece asistencia técnica para mejorar los sistemas de producción en la región y se promueve la diversificación de los cultivos orgánicos locales y se instalan gallineros como proyectos productivos.
+            </p><br><br>
+            <div style="display:flex;justify-content:center; align-items:center; flex-wrap:wrap;">
 
-            <img src="source/images/programas/prog-segali17.gif"  alt="" style="padding:1rem;" class="col-md-3">
-            <p align="justify" class="col-md-9 greenfon2">El programa de seguridad alimentaria benefició a 1,195 personas 586 hombres y 609 mujeres*<br>
-                  <a href="difunda-trans-infoan.html"><span class="blackfont4">link: (*Resultados del Informe Anual 2014)</span></a>
-            </p><br>
+                <img src="source/images/programas/prog-segali17.gif"  alt="" style="padding:1rem;" class="col-md-3">
+                <p  class="col-md-9 greenfon2">El programa de seguridad alimentaria benefició a 1,195 personas 586 hombres y 609 mujeres*<br>
+                    <a href="difunda-trans-infoan.html"><span class="blackfont4">link: (*Resultados del Informe Anual 2014)</span></a>
+                </p><br>
+            </div>
         </div>
     </div>
     <div class="row">
