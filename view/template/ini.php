@@ -12,7 +12,7 @@
   <body>
     <header>
         <div id="top-nav">
-            <a href="#">
+            <a href="inicio">
                 <img src="source/images/logo/logo.gif" alt="fundacion tarahumara" id="logo">
             </a>
             <nav id="navigator">

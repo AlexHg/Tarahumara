@@ -23,7 +23,7 @@
     <a href="lasierra">La Sierra</a>
 </li>
 <li>
-    <a href="#Inicio">Difusión</a>
+    <a href="boletines">Difusión</a>
     <div class="submenu">
         <a href="boletines">Boletines informativos</a>
         <a href="informes">Informes anuales</a>
