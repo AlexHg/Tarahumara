@@ -20,12 +20,12 @@
             </nav>
             <div id="donabutton" width="138" height="100" style="padding-top:1rem;min-width:138px;">
                 <div>
-                    <a href="#"><img src="source/images/dona/lface.png" alt="" style="padding:.2rem;"></a>
-                    <a href="#"><img src="source/images/dona/ltwitter.png" alt="" style="padding:.2rem;"></a>
-                    <a href="#"><img src="source/images/dona/lyoutube.png" alt="" style="padding:.2rem;"></a>
-                    <a href="#"><img src="source/images/dona/leng.png" alt="" style="padding:.2rem;"></a>
+                    <a href="https://www.facebook.com/ftarahumara"><img src="source/images/dona/lface.png" alt="" style="padding:.2rem;"></a>
+                    <a href="https://twitter.com/ftarahumara"><img src="source/images/dona/ltwitter.png" alt="" style="padding:.2rem;"></a>
+                    <a href="https://www.youtube.com/channel/UCQEsMYK7aI-nxUMiLtbdA1Q"><img src="source/images/dona/lyoutube.png" alt="" style="padding:.2rem;"></a>
+                    <a href="http://www.tarahumara.net/english/"><img src="source/images/dona/leng.png" alt="" style="padding:.2rem;"></a>
                 </div>
-                <a href="#"><img src="source/images/dona/button.png" alt="" style="margin-top:.5rem;"></a>
+                <a href="korima"><img src="source/images/dona/button.png" alt="" style="margin-top:.5rem;"></a>
             </div>
             <a href="#" data-href="#" id="movmenu"> 
                 <img src="source/images/menu.png" alt="">

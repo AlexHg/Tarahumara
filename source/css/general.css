@@ -279,3 +279,10 @@ section{
 .page-title div {
     background: rgba(0, 72, 58,.9);
 }
+.edofin{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 0 5rem;
+    margin: 2rem 0;
+}

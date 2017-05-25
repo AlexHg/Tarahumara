@@ -147,6 +147,60 @@
         View::render('template/fin');
     });
 
+    Flight::route('/estados-financieros', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Estados Financieros",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('estados-financieros');
+        View::render('template/fin');
+    });
+
+    Flight::route('/korima', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Haz Korima",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('korima');
+        View::render('template/fin');
+    });
+
+    Flight::route('/alianzas', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Donantes & Alianzas",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('alianzas');
+        View::render('template/fin');
+    });
+
+    Flight::route('/colabora', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Colabora con nosotros",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('colabora');
+        View::render('template/fin');
+    });
+
+    Flight::route('/contacto', function(){
+        View::render('template/ini', 
+            array(
+                'title' => "Contacta con nosotros",
+                "description" => "Otra creación de Welfare"
+            )
+        );
+        View::render('contacto');
+        View::render('template/fin');
+    });
 
 
 

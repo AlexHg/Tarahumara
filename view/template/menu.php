@@ -27,18 +27,18 @@
     <div class="submenu">
         <a href="boletines">Boletines informativos</a>
         <a href="informes">Informes anuales</a>
-        <a href="#">Estados financieros</a>
+        <a href="estados-financieros">Estados financieros</a>
         <a href="aviso-de-privacidad">Aviso de privacidad</a>
     </div>
 </li>
 <li>
-    <a href="#Inicio">Como Apoyar</a>
+    <a href="alianzas">Como Apoyar</a>
     <div class="submenu">
-        <a href="#">Haz Kórima</a>
-        <a href="#">Donantes & alianzas</a>
-        <a href="#">Colabora con nosotros</a>
+        <a href="korima">Haz Kórima</a>
+        <a href="alianzas">Donantes & alianzas</a>
+        <a href="colabora">Colabora con nosotros</a>
     </div>
 </li>
 <li>
-    <a href="#Inicio">Contacto</a>
+    <a href="contacto">Contacto</a>
 </li>
