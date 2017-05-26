@@ -28,7 +28,6 @@
         <a href="boletines">Boletines informativos</a>
         <a href="informes">Informes anuales</a>
         <a href="estados-financieros">Estados financieros</a>
-        <a href="aviso-de-privacidad">Aviso de privacidad</a>
     </div>
 </li>
 <li>
@@ -36,7 +35,7 @@
     <div class="submenu">
         <a href="korima">Haz Kórima</a>
         <a href="alianzas">Donantes & alianzas</a>
-        <a href="colabora">Colabora con nosotros</a>
+        <!--<a href="colabora">Colabora con nosotros</a>-->
     </div>
 </li>
 <li>

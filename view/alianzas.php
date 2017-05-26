@@ -22,9 +22,9 @@
                         Súmate a nuestra lista de donantes, empresas e instituciones socialmente responsables en pro de labores altruistas. A todos ellos ¡GRACIAS!
                     </span>
                     <br><br>
-                    <a href="source/downloads/donantes.pdf" target="_blank">
+                    <!--<a href="source/downloads/donantes.pdf" target="_blank">
                         <img src="source/images/alianzas/apoya17.gif">
-                    </a>
+                    </a>-->
                     <br><br>
                 </div>
                 
@@ -37,11 +37,33 @@
                         El trabajo en equipo nos hace más fuertes y en nuestra fundación nos damos a la tarea de crear alianzas que nos permitan dar impulso a nuestros programas y tener mayor alcance e impacto a nuestra causa. Nos apoyamos en recursos y herramientas alternativas que vamos trabajando uno a uno para fortalecernos en un ganar-ganar.
                     </span>
                     <br><br>
-                    <a href="source/downloads/donantes.pdf" target="_blank">
+                    <!--<a href="source/downloads/donantes.pdf" target="_blank">
                         <img src="source/images/alianzas/apoya16.gif">
-                    </a>
+                    </a>-->
                     <br><br>
                 </div>
+                
+            </div>
+            <p align="center" class="greenfont1">
+                CONOCE A NUESTROS COLABORADORES
+            </p>
+            <br><br><br>
+            <div class="col-md-12">
+                <div class="col-md-4">
+                    <ul>
+                        <li>Donante 1</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul>
+                        <li>Donante 1</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul>
+                        <li>Donante 1</li>
+                    </ul>
+                </div> 
                 
             </div>
             

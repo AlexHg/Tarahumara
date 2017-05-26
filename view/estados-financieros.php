@@ -14,7 +14,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2015
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2015.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -23,7 +23,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2014
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2014.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -32,7 +32,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2013
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2013.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -41,7 +41,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2012
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2012.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -50,7 +50,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2011
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2011.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -59,7 +59,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2010
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2010.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -68,7 +68,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2009
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2009.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -77,7 +77,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2008
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2008.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -86,7 +86,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2007
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2007.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -95,7 +95,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2006
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2006.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -104,7 +104,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2005
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2005.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>
@@ -113,7 +113,7 @@
                 <p class="greenfont1">
                     Estados Financieros 2004
                 </p>
-                <a href="#" target="_blank">
+                <a href="source/downloads/estados/estadosfinancieros2004.pdf" target="_blank">
                     <img src="source/images/estados/difun4.gif" width="128" height="35">
                 </a>
             </div>

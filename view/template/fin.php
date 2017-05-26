@@ -1,7 +1,10 @@
     <footer style="background:#2A605E;padding:50px 0px 15px 0px;">
         <div class="container">
             <div class="row" align="center" style="padding:0 20px;">
-                <div class="col-md-3"><img src="source/images/logo/logo-footer.png" width="127" ></div>
+                <div class="col-md-3">
+                    <img src="source/images/logo/logo-footer.png" style="margin-left: 1.5rem;" width="127" ><br>
+                    <span style="color:white;">Consulte nuestro <br><a style="color:white;text-decoration:underline;" href="aviso-de-privacidad">Aviso de privacidad</a></span>
+                </div>
                 <div class="col-md-3">
                     <span class="whitefont4">
                         CREEL, CHIHUAHUA <br>

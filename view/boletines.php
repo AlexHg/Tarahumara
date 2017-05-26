@@ -28,7 +28,7 @@
                     BOLETÍN 12<br>
                     MAYO 2017
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin12.png"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -38,7 +38,7 @@
                     BOLETÍN 11<br>
                     ABRIL 2017
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin11.png"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -48,7 +48,7 @@
                     BOLETÍN 10<br>
                     ABRIL 2016
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin10.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-12"></div>
@@ -59,7 +59,7 @@
                     BOLETÍN 9<br>
                     MARZO 2016
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin9.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -69,7 +69,7 @@
                     BOLETÍN 8<br>
                     NOVIEMBRE 2015
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin8.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -79,7 +79,7 @@
                     BOLETÍN 7<br>
                     MAYO 2015
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin7.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-12"></div>
@@ -90,7 +90,7 @@
                     BOLETÍN 6<br>
                     DICIEMBRE 2013
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin6.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -100,7 +100,7 @@
                     BOLETÍN 5<br>
                     AGOSTO 2013
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin5.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -110,7 +110,7 @@
                     BOLETÍN 4<br>
                     ABRIL 2013
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin4.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-12"></div>
@@ -121,7 +121,7 @@
                     BOLETÍN 3<br>
                     DICIEMBRE 2012
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin3.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -131,7 +131,7 @@
                     BOLETÍN 2<br>
                     SEPTIEMBRE 2012
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin2.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -141,7 +141,7 @@
                     BOLETÍN 1<br>
                     ABRIL 2012
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/boletines/boletin1.jpg"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
 

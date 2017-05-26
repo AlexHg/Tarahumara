@@ -27,7 +27,7 @@
                     INFORME ANUAL<br>
                     2015
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2015.png" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -37,7 +37,7 @@
                     INFORME ANUAL<br>
                     2014
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2014.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
 
@@ -50,7 +50,7 @@
                     INFORME ANUAL<br>
                     2013
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2013.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -60,7 +60,7 @@
                     INFORME ANUAL<br>
                     2012
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2012.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -70,7 +70,7 @@
                     INFORME ANUAL<br>
                     2011
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2011.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
 
@@ -83,7 +83,7 @@
                     INFORME ANUAL<br>
                     2010
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2010.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -93,7 +93,7 @@
                     INFORME ANUAL<br>
                     2009
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2009.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -103,7 +103,7 @@
                     INFORME ANUAL<br>
                     2008
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2008.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
 
@@ -116,7 +116,7 @@
                     INFORME ANUAL<br>
                     2007
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2007.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -126,7 +126,7 @@
                     INFORME ANUAL<br>
                     2006
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2006.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -136,7 +136,7 @@
                     INFORME ANUAL<br>
                     2005
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2005.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
 
@@ -149,7 +149,7 @@
                     INFORME ANUAL<br>
                     2004
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2004.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -159,7 +159,7 @@
                     INFORME ANUAL<br>
                     2003
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2003.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
         <div class="col-md-4" style="display:inline-flex;justify-content:center;align-items:flex-end;margin-bottom:2rem;">
@@ -169,7 +169,7 @@
                     INFORME ANUAL<br>
                     2002
                 </p>
-                <img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;">
+                <a href="source/downloads/informes/informeanual2002.pdf" target="_blank"><img src="source/images/boletin/difun4.gif" alt="" style="margin-right:1rem;"></a>
             </span>
         </div>
 

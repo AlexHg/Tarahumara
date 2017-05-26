@@ -1,3 +1,4 @@
+
 <div id="page-title" style="background:url(source/images/page-banner3.jpg);background-position:center;background-size:cover;height:185px;display:flex;align-items:center;justify-content:center;">
     <div align="center" class="whitefont1" style="padding:.7rem 8rem;border:4px solid white;">NUESTROS PROGRAMAS
 </div>
@@ -80,10 +81,6 @@
             </div>
         </div>
         
-        <div align="center" class="col-md-12">
-            <br><br>
-            <a href="#" align="center"><img src="source/images/programas/prog-31.gif" width="160" height="113"></a>
-        </div>
-        
+        <iframe src="http://tarahumara.net/galeria-edu.html" style="height:700px; width:1000px; max-width:100%;" frameborder="0" scrolling="no"></iframe>        
     </div>
 </section>

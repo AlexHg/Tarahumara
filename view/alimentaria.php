@@ -69,10 +69,7 @@
         </div>
 
         
-        <div align="center" class="col-md-12">
-            <br><br>
-            <a href="#" align="center"><img src="source/images/programas/prog-31.gif" width="160" height="113"></a>
-        </div>
+        <iframe src="http://tarahumara.net/galeria-segali.html" style="height:700px; width:1000px; max-width:100%;" frameborder="0" scrolling="no"></iframe>
         
     </div>
 </section>
